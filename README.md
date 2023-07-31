@@ -68,6 +68,13 @@ Assurez-vous de respecter ces recommandations pour préserver l'identité de l'a
 <td>Private<br><br>Do not reuse<br></td>
 </tr>
 <tr>
+<td>Inline</td>
+<td><br><img src="Branding2024_Private/Inline_Dark_Filled.png" width="100"></td>
+<td>Filled (<a href="Branding2024_Private/Inline_Dark_Filled.png">png</a>) (<a href="Branding2024_Private/Inline_Dark_Filled.svg">svg</a>)</td>
+<td></td>
+<td>Private<br><br>Do not reuse<br></td>
+</tr>
+<tr>
 <td>Cards</td>
 <td><br><img src="Branding2024_Private/Card_One-Panthéon.png" width="100"></td>
 <td>One Panthéon<br>Filled (<a href="Branding2024_Private/Card_One-Panthéon.png">png</a>) (<a href="Branding2024_Private/Card_One-Panthéon.svg">svg</a>)<br></td>
