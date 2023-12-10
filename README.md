@@ -40,6 +40,13 @@ Assurez-vous de respecter ces recommandations pour préserver l'identité de l'a
 </thead>
 <tbody>
 <tr>
+<td>Gabarit Powerpoint</td>
+<td><img src="https://github.com/OnePantheon/Branding/assets/28659185/12d708bc-e161-416c-ba8a-78144f993ad7" width="200"></td>
+<td></td>
+<td>Gabarit <a href="Branding2024_CC-BY/One_Pantheon_Gabarit_2024.pptx">PPTX</a></td>
+<td><a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Licence Creative Commons Attribution 4.0 International" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a><br>Created by One Panthéon<br></td>
+</tr>
+<tr>
 <td>Logo</td>
 <td><img src="Branding2024_CC-BY/Logo_Dark_Filled.png" width="200"></td>
 <td><b>Dark</b><br>Transparent (<a href="Branding2024_CC-BY/Logo_Dark_Transparent.png">png</a>) (<a href="Branding2024_CC-BY/Logo_Dark_Transparent.svg">svg</a>)<br>Filled (<a href="Branding2024_CC-BY/Logo_Dark_Filled.png">png</a>)</td>
