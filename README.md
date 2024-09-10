@@ -72,7 +72,7 @@ Assurez-vous de respecter ces recommandations pour préserver l'identité de l'a
 <td><br><img src="Branding2024_Private/SocialOne_Dark_Filled.png" width="100"></td>
 <td>Filled (<a href="Branding2024_Private/SocialOne_Dark_Filled.png">png</a>) (<a href="Branding2024_Private/SocialOne_Dark_Filled.svg">svg</a>)</td>
 <td></td>
-<td>Private<br><br>Do not reuse<br></td>
+<td>Private<br><br>Réutilisation tolérée<br></td>
 </tr>
 <tr>
 <td>Inline</td>
