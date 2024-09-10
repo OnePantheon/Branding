@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    {% seo %}
+    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+    {% include head-custom.html %}
+    <link rel="icon" href="/favicon.ico" sizes="32x32">
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml">
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
+
+        {% if site.logo %}
+          <img src="{{site.logo | relative_url}}" alt="Logo" />
+        {% endif %}
+
+        <p style="display: none;">{{ site.description | default: site.github.project_tagline }}</p>
+
+        <h4>Télécharger le logo</h4>
+
+        <ul class="downloads">
+          <li><a download href="/Branding2024_CC-BY/Logo_Dark_Filled.png">Télécharger <strong  style="font-size: 12px; margin-top: 4px;">Logo PNG</strong></a></li>
+          <li><a download href="/Branding2024_CC-BY/Logo_Dark_Transparent.svg">Télécharger <strong  style="font-size: 12px; margin-top: 4px;">Logo SVG</strong></a></li>
+          <li><a href="/Logos#Logos">Voir <strong style="font-size: 10px; margin-top: 4px;">Autres logos</strong></a></li>
+        </ul>
+
+        <h4>Contact</h4>
+        <p>Tchat Discord : <a href="https://discord.com/invite/sFfWHeeUyk">discord.gg/sFfWHeeUyk</a></p>
+        <p>Instagram : <a href="https://www.instagram.com/one_pantheon/">@one_pantheon</a></p>
+      </header>
+
+      <section>
+
+      {{ content }}
+
+      </section>
+    
+      <footer>
+        <div style="display: none;">
+            <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+        </div>
+      </footer>
+    </div>
+  </body>
+</html>

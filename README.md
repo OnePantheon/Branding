@@ -1,97 +1,46 @@
-# Branding
+---
+title: Kit Presse One Panthéon
+layout: default
+permalink: /
+locale: fr-FR
+image: "./logos/Banner.jpg"
+---
 
-Ce repository github stocke et archive l'identité visuelle de l'association One Panthéon.
+![Banière One Panthéon](./logos/LandingBanner.svg)
 
-Les images sont dans le domaine privé et il est interdit de les réutiliser, à l'exception d'une partie d'entre elles. Pour en savoir plus, se référer au fichier [LICENSE.md](LICENSE.md)
+## One Panthéon
 
-## Identité graphique depuis le 08/2023
+One Panthéon est l'association d'informatique de l'EFREI, école d'ingénieurs composante de l'université Paris Panthéon Assas. Elle vise à rassembler tous les étudiants intéressés par le domaine de la programmation informatique et plus généralement dans les domaines du numérique.
 
-Cette identité graphique a été conçue par Logan TANN pour One Panthéon. L'ensemble des images ont été modélisées manuellement sur Figma (les données d'éditions ne sont donc pas exportées).
+*Activités : *
 
-### Logos
+1. Aide aux projets - Les étudiants souhaitant réaliser un projet (tel qu'une application mobile, un jeu vidéo) peuvent utiliser les ressources de l'association et obtenir des conseils
+2. Ateliers d'informatique et évènements - Des cours créés par des étudiants, pour des étudiants. Également promouvoir des défis et des compétitions (hackatons, gamejams)
+3. Discord - Proposer un espace de discussion public en temps réel et permettre la veille numérique ou la résolution de problèmes
+4. Bénévolat - tel que l'animation d'ateliers informatiques au profit de l'EFREI
+5. Représentation étudiante à l'échelle nationale (via la [FNEIR](https://fneir.github.io))
 
-1. **Utilisation du Logo**:
-   - Le logo principal de l'association est l'asset `Logo`. Il doit être utilisé de manière prépondérante dans toutes les communications officielles.
-   - Il est fourni en version "Light" (pour un fond clair) et "Dark" (pour un fond sombre). Choisissez la version appropriée en fonction du fond sur lequel le logo sera affiché.
-   - Le fichier [Logo_Light_Transparent.png](Branding2024_CC-BY/Logo_Light_Transparent.png) convient à la plupart des besoins.
+Pour adhérer, rejoingez le serveur discord (lien ci-contre). Un lien à jour est mis à disposition. Vous avez la possibilité de contacter le staff via le système de tickets.
 
-2. **Logo sans chouette ni mention "Efrei Paris Panthéon-Assas université"**:
-   - L'usage seul de l'asset `Logo Small` est toléré lorsque le logo original devient illisible en raison de sa taille réduite sur une surface. 
+## Historique
 
-3. **Chouette sans la mention "One Panthéon"**:
-   - Dans les communications, l'asset `Geek Owl` en tant que remplacement du logo de l'association est fortement déconseillé.
-   - Toutefois, vous pouvez le mettre en évidence à des fins de rappel d'identité, par exemple, en l'affichant discrètement en haut à droite de chaque slide dans une présentation.
+* Année 3 (2024-2025) : En cours
+* Année 2 (2023-2024) : Désormais, l'association se concentre exclusivement sur l'informatique et sur le campus EFREI Paris. Nouveau branding. Organisation d'une gamejam. 
+* Année 1 (2022-2023) : Création. Voeu de permettre aux étudiants de développer leurs projets numériques tout en pronant la pluridisciplinarité en projettant une implantation à la fois à l'EFREI et Panthéon Assas.
 
-4. **Assets ayant la mention "privé"**:
-   - Certains assets portent la mention "privé" car ils ont été créés pour des usages spécifiques et réservés à des fins internes ou restreintes.
-   - Par conséquent, leur réutilisation et/ou modification ne doit pas être effectuée sans l'autorisation explicite de l'association.
+## Légal
 
-Assurez-vous de respecter ces recommandations pour préserver l'identité de l'association dans toutes les communications publiques.
+Documents :
+* Statuts : [PDF](./Statuts.pdf)
+* Règlement intérieur : [PDF](./ReglementInterieur.pdf)
 
-<table>
-<thead>
-<tr>
-<th>Asset name</th>
-<th>Preview</th>
-<th>File (1/2)</th>
-<th>File (2/2)</th>
-<th>License</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Gabarit Powerpoint</td>
-<td><img src="https://github.com/OnePantheon/Branding/assets/28659185/12d708bc-e161-416c-ba8a-78144f993ad7" width="200"></td>
-<td></td>
-<td>Gabarit <a href="Branding2024_CC-BY/One_Pantheon_Gabarit_2024.pptx">PPTX</a></td>
-<td><a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Licence Creative Commons Attribution 4.0 International" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a><br>Created by One Panthéon<br></td>
-</tr>
-<tr>
-<td>Logo</td>
-<td><img src="Branding2024_CC-BY/Logo_Dark_Filled.png" width="200"></td>
-<td><b>Dark</b><br>Transparent (<a href="Branding2024_CC-BY/Logo_Dark_Transparent.png">png</a>) (<a href="Branding2024_CC-BY/Logo_Dark_Transparent.svg">svg</a>)<br>Filled (<a href="Branding2024_CC-BY/Logo_Dark_Filled.png">png</a>)</td>
-<td><b>Light</b><br>Transparent (<a href="Branding2024_CC-BY/Logo_Light_Transparent.png">png</a>) (<a href="Branding2024_CC-BY/Logo_Light_Transparent.svg">svg</a>)<br>Filled (<a href="Branding2024_CC-BY/Logo_Light_Filled.png">png</a>)</td>
-<td><a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Licence Creative Commons Attribution 4.0 International" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a><br>Created by One Panthéon<br></td>
-</tr>
-<tr>
-<td>Logo Small</td>
-<td><img src="Branding2024_CC-BY/LogoSmall_Dark_Filled.png" width="200"></td>
-<td><b>Dark</b><br>Transparent (<a href="Branding2024_CC-BY/LogoSmall_Dark_Transparent.png">png</a>) (<a href="Branding2024_CC-BY/LogoSmall_Dark_Transparent.svg">svg</a>)<br>Filled (<a href="Branding2024_CC-BY/LogoSmall_Dark_Filled.png">png</a>)</td>
-<td><b>Light</b><br>Transparent (<a href="Branding2024_CC-BY/LogoSmall_Light_Transparent.png">png</a>) (<a href="Branding2024_CC-BY/LogoSmall_Light_Transparent.svg">svg</a>)<br>Filled (<a href="Branding2024_CC-BY/LogoSmall_Light_Filled.png">png</a>)</td>
-<td><a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Licence Creative Commons Attribution 4.0 International" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a><br>Created by One Panthéon<br></td>
-</tr>
-<tr>
-<td>Geek Owl</td>
-<td><br><img src="Branding2024_CC-BY/GeekOwl_Dark_Transparent.png" width="100"></td>
-<td><b>Dark</b><br>Transparent (<a href="Branding2024_CC-BY/GeekOwl_Dark_Transparent.png">png</a>) (<a href="Branding2024_CC-BY/GeekOwl_Dark_Transparent.svg">svg</a>)</td>
-<td><b>Light</b><br>Transparent (<a href="Branding2024_CC-BY/GeekOwl_Light_Transparent.png">png</a>) (<a href="Branding2024_CC-BY/GeekOwl_Light_Transparent.svg">svg</a>)</td>
-<td><a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Licence Creative Commons Attribution 4.0 International" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a><br>Created by One Panthéon<br></td>
-</tr>
-<tr>
-<td>Social Icon</td>
-<td><br><img src="Branding2024_Private/SocialOne_Dark_Filled.png" width="100"></td>
-<td>Filled (<a href="Branding2024_Private/SocialOne_Dark_Filled.png">png</a>) (<a href="Branding2024_Private/SocialOne_Dark_Filled.svg">svg</a>)</td>
-<td></td>
-<td>Private<br><br>Réutilisation tolérée<br></td>
-</tr>
-<tr>
-<td>Inline</td>
-<td><br><img src="Branding2024_Private/Inline_Dark_Filled.png" width="100"></td>
-<td>Filled (<a href="Branding2024_Private/Inline_Dark_Filled.png">png</a>) (<a href="Branding2024_Private/Inline_Dark_Filled.svg">svg</a>)</td>
-<td></td>
-<td>Private<br><br>Do not reuse<br></td>
-</tr>
-<tr>
-<td>Cards</td>
-<td><br><img src="Branding2024_Private/Card_One-Panthéon.png" width="100"></td>
-<td>One Panthéon<br>Filled (<a href="Branding2024_Private/Card_One-Panthéon.png">png</a>) (<a href="Branding2024_Private/Card_One-Panthéon.svg">svg</a>)<br></td>
-<td>One Panthéon x Efrei Craft<br>Filled (<a href="Branding2024_Private/Card_Efrei-Craft.png">png</a>) (<a href="Branding2024_Private/Card_Efrei-Craft.svg">svg</a>)<br></td>
-<td>Private<br><br>Do not reuse</td>
-</tr>
-</tbody>
-</table>
+Titre : ONE PANTHÉON
 
-### Couleurs et polices
+N° RNA : W943010945
 
-![Branding2024_CC-BY/ColorsAndFonts.png](Branding2024_CC-BY/ColorsAndFonts.png)
+Date d'enregistrement : Déclaré le 31 mai 2022, [Journal Officiel](https://www.journal-officiel.gouv.fr/pages/associations-detail-annonce/?q.id=id:202200221330)
+
+Siège social: 30 32 avenue de la Republique, EFREI Paris, 94800 Villejuif
+
+Domaines d’activités : information communication / réseaux internet ; action socio-culturelle
 

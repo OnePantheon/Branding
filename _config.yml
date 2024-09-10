@@ -1,0 +1,7 @@
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+title: Kit Presse One Panthéon
+description: "One panthéon est l'association d'informatique de l'efrei. Aide aux projets ; Ateliers ; Évènements ; Discussions. "
+lang: fr-FR
+logo: "https://raw.githubusercontent.com/OnePantheon/Branding/main/Branding2024_Private/SocialOne_Dark_Filled.png"
