@@ -24,8 +24,8 @@ Pour adhérer, rejoingez le serveur discord (lien ci-contre). Un lien à jour es
 
 ## Historique
 
-* Année 3 (2024-2025) : En cours
-* Année 2 (2023-2024) : Désormais, l'association se concentre exclusivement sur l'informatique et sur le campus EFREI Paris. Nouveau branding. Organisation d'une gamejam. 
+* Année 4 (2025-2026) : En cours
+* Année 2 (2023-2024) : Désormais, l'association se concentre exclusivement sur l'informatique et sur le campus EFREI Paris. Nouveau branding. 
 * Année 1 (2022-2023) : Création. Voeu de permettre aux étudiants de développer leurs projets numériques tout en pronant la pluridisciplinarité en projettant une implantation à la fois à l'EFREI et Panthéon Assas.
 
 ## Légal
